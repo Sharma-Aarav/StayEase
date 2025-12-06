@@ -46,12 +46,10 @@ Follow these steps to get your development environment ready:
 StayEase may require environment variables for database connections, API keys, etc.
 
 1.  Create a file named **`.env`** in the root directory.
-2.  Add your configuration variables (Example):
+2.  Add this in that **.env** file:
     
     # Example .env content
-    DB_CONNECTION_STRING=[Your MongoDB or other DB connection string]
-    API_KEY=[Your External API Key, if applicable]
-    PORT=3000
+    VITE_CLERK_PUBLISHABLE_KEY=pk_test_dWx0aW1hdGUtc3VuZmlzaC01MS5jbGVyay5hY2NvdW50cy5kZXYk
     
     ***(Adjust the variables above to match what your code actually uses)***
 
