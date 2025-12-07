@@ -1,4 +1,4 @@
-# StayEase:�
+# StayEase:
 
 A comprehensive platform designed to streamline the process of [e.g., booking short-term rentals, managing hotel reservations, or organizing travel itineraries]. StayEase aims to provide a seamless and user-friendly experience for all your accommodation needs.
 
@@ -82,5 +82,6 @@ To run the application in a local development environment:
 This project is licensed under the **[Choose Your License, e.g., MIT License]** - see the `LICENSE.md` file for details.
 
 ---
+README.md inside the client folder for detailed description of the project.
 
 **Author:** Aarav Sharma
